@@ -31,7 +31,7 @@ seguem abaixo.
 
 - [ChatGPT](https://chat.openai.com/) 
 - [Gemini](https://gemini.google.com/app)
-- [Leonard.AI]()
+- [Leonard.AI](https://app.leonardo.ai/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -51,8 +51,8 @@ ChatGPT：
 |  Título  | Dê ideias de um título mais atraente e poderoso para esse ebook, dirigindo-se a entusiastas de novas tecnologias       |
 | Conteúdo | Faça um texto para ebook sobre as novas IA'S e como usá-las. Regras: Explique de uma maneira simples, deixe o texto enxuto, traga exemplos e um pequeno tutorial de como usá-lo e sempre deixe um título sugestivo por tópico                                         |
 
-Midjourney：(Não o usei, pois não consegui acesso)
-Leonardo.AI:
+Leonardo.AI：(Não usei o Midjourney, pois não consegui acesso)
+
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
@@ -70,24 +70,28 @@ Leonardo.AI:
 
 ## 🛠️ Instruções de execução
 
-Utilizei os prompts acima nas ferramentas sugeridas para gerar o material base e utilizei o Power Point como ferramenta de edição de documentos e Adobe Indesign para diagramação.
+Utilizei os prompts acima nas ferramentas sugeridas para gerar o material base e utilizei o Power Point como ferramenta de edição de documentos e indesign para diagramação.
 
 
 <p>
-
-    < ## 👨‍💻 
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/161964958?v=4"
     />
     <p>&nbsp&nbsp&nbspRubia Fagundes<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/ru-fagundes">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/rubiafagundes/">LinkedIn</a>
-&nbsp;|&nbsp;
-    </p>
+    <a href="www.linkedin.com/in/rubiafagundes">
+    LinkedIn</a>
+&nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
 <p>
 
+
 ---
 
-⌨️ com 💜 por [Rubia Fagundes]
+⌨️ com 💜 por [Rubia Fagundes](https://github.com/ru-fagundes)
