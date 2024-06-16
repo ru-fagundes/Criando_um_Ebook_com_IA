@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="300" src="./assets/IA_3.png">
+    <img width="300" src="./assets/AI_2.png">
 </p>
 
 
