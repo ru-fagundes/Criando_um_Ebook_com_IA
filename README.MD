@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".github/assets/AI_3.jpg">
+    <img width="300" src=".github/assets/IA_5.jpg">
 </p>
 
 
@@ -25,7 +25,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/ru-fagundes/Criando_um_Ebook_com_IA/blob/master/output/Ebook_Alem_do_ChatGPT.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
